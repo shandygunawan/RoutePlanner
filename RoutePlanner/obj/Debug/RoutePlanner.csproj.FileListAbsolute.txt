@@ -24,3 +24,5 @@ C:\Users\Shandy\source\repos\RoutePlanner\RoutePlanner\obj\Debug\RoutePlanner.ex
 C:\Users\Shandy\source\repos\RoutePlanner\RoutePlanner\obj\Debug\RoutePlanner.pdb
 C:\Users\Shandy\source\repos\RoutePlanner\RoutePlanner\obj\Debug\RoutePlanner.Form2.resources
 C:\Users\Shandy\source\repos\RoutePlanner\RoutePlanner\obj\Debug\RoutePlanner.MainForm.resources
+C:\Users\Shandy\source\repos\RoutePlanner\RoutePlanner\bin\Debug\C5.dll
+C:\Users\Shandy\source\repos\RoutePlanner\RoutePlanner\bin\Debug\C5.xml
